@@ -1,3 +1,4 @@
+package Java.OOP.polymorphism;
 class Cat{
     public void scratch(){
         System.out.println("meow");
@@ -11,7 +12,7 @@ class Theo extends Cat{
     }
 }
 
-public class polymorphism {
+public class poly {
     public static void main(String[] args) {
 
         Theo c = new Theo();
