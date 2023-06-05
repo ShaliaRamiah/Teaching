@@ -12,6 +12,8 @@ public class arrays {
         System.out.println(loot[1]);
         System.out.println(loot[2]);
 
+        System.out.println(players[1]);
+
     }
     
 }
